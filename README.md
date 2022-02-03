@@ -7,7 +7,7 @@
 https://youtu.be/oukSo2UlKME<br/><br/>
 
 ### Previews
-> ![Keycloak01](https://user-images.githubusercontent.com/82118355/152386940-2eec6e4f-c7e5-42a1-8b0d-0fa5079c6995.png)
+> ![Keycloak01](https://user-images.githubusercontent.com/82118355/152387396-548dea33-a549-4074-8e5e-3bc29358491b.png)
 <br/><br/>
 
 Artigo que serviu de base:<br/>
