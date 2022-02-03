@@ -1,7 +1,7 @@
 # Spring Boot e Keycloak
 
 ### Essa página foi desenvolvida usando Spring Boot, Java e Keycloak<br/>
-(Peço que ignorem os nomes dos commits, na época eu colocava nomes qualquer).<br/><br/>
+(Peço que ignorem os nomes dos commits, na época eu colocava nomes qualquer)<br/><br/>
 
 ### Link do vídeo mostrando o funcionamento da página:<br/> 
 https://youtu.be/oukSo2UlKME<br/><br/>
