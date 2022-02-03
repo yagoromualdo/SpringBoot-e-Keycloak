@@ -6,11 +6,11 @@
 ### Link do vídeo mostrando o funcionamento da página:<br/> 
 https://youtu.be/oukSo2UlKME<br/><br/>
 
-### Previews
+### Preview
 > ![Keycloak01](https://user-images.githubusercontent.com/82118355/152387396-548dea33-a549-4074-8e5e-3bc29358491b.png)
 <br/><br/>
 
-Artigo que serviu de base:<br/>
+Artigo que serviu como base:<br/>
 https://www.thomasvitale.com/spring-security-keycloak/
 
 
