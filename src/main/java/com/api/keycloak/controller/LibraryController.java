@@ -36,11 +36,6 @@ public class LibraryController {
 		return "index";
 	}
 
-	@GetMapping(value = "/teste")
-	public String isteste() {
-		return "teste";
-	}
-
 
 	@GetMapping(value = "/books")
 	public String getBooks(Model model) {
